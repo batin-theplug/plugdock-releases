@@ -3,13 +3,13 @@
   <channel>
     <title>PlugDock</title>
     <item>
-      <title>PlugDock 0.1.1</title>
-      <description>Automatiska uppdateringar, Ångra på tasks och nödknappen Återställ Docken.</description>
-      <pubDate>Fri, 20 Nov 2026 14:58:48 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <title>PlugDock 0.1.2</title>
+      <description>Högerklick på tom yta i Docken fungerar igen. Fäst appar genom att dra in dem eller via Lägg till app i Docken…</description>
+      <pubDate>Mon, 23 Nov 2026 16:10:26 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/batin-theplug/plugdock-releases/releases/download/v0.1.1/PlugDock-0.1.1.zip" type="application/octet-stream" sparkle:edSignature="g/OUycf1vpco4FG6InDdFc0CqRNQbmRjCicSi/Mcbe5xWV/XL12qf5WnRm19FU/RVmOOvvHmBBrVzriUYmDwAA==" length="3692846" />
+      <enclosure url="https://github.com/batin-theplug/plugdock-releases/releases/download/v0.1.2/PlugDock-0.1.2.zip" type="application/octet-stream" sparkle:edSignature="DtNVz9Z+GuhYI/sqMKCShTmFnjT4yfRiokD3NusIbe59rM95vqCTuZD20UT0famM/XwuTX52kjT9Eo/nkPXDBw==" length="3700884" />
     </item>
   </channel>
 </rss>
