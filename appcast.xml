@@ -3,13 +3,13 @@
   <channel>
     <title>PlugDock</title>
     <item>
-      <title>PlugDock 0.1.2</title>
-      <description>Högerklick på tom yta i Docken fungerar igen. Fäst appar genom att dra in dem eller via Lägg till app i Docken…</description>
-      <pubDate>Mon, 23 Nov 2026 16:10:26 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <title>PlugDock 0.1.3</title>
+      <description>Dela-meny på filer, Skicka till iMac direkt och AirDrop till iPhone från Hämtade filer och Fil-hyllan.</description>
+      <pubDate>Tue, 24 Nov 2026 16:45:08 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/batin-theplug/plugdock-releases/releases/download/v0.1.2/PlugDock-0.1.2.zip" type="application/octet-stream" sparkle:edSignature="DtNVz9Z+GuhYI/sqMKCShTmFnjT4yfRiokD3NusIbe59rM95vqCTuZD20UT0famM/XwuTX52kjT9Eo/nkPXDBw==" length="3700884" />
+      <enclosure url="https://github.com/batin-theplug/plugdock-releases/releases/download/v0.1.3/PlugDock-0.1.3.zip" type="application/octet-stream" sparkle:edSignature="c5/DQIT5JrG8K280Ak2zxLrPNpHGeEthhTkxQKCllIHv9kbGNdkVdpTnsyv0R/RS8wtEXz4TsW36QFBJOCtkCA==" length="3745970" />
     </item>
   </channel>
 </rss>
